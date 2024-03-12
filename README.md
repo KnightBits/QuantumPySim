@@ -1,6 +1,3 @@
-Конечно, вот пример простого `README.md` файла, который описывает использование вашей библиотеки `QuantumPySim`:
-
-```markdown
 # QuantumPySim
 
 QuantumPySim is a simple quantum simulator library for Python.
